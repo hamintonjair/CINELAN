@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0047: Quitar los paréntesis innecesarios
+dotnet_diagnostic.IDE0047.severity = silent
